@@ -5,7 +5,7 @@ Repositório individual de atividades, exercícios e laboratórios da disciplina
 ## Identificação
 
 - **Discente:** Iury Fredson Germano Miranda
-- **Matrícula:** `PREENCHER_ANTES_DE_ENVIAR`
+- **Matrícula:** 20240050336
 - **Docente:** André Luis Fonseca Faustino
 - **Turma:** 24T56
 
