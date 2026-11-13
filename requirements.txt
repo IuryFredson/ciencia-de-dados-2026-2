@@ -1,0 +1,2 @@
+# Dependências serão registradas conforme as atividades forem realizadas.
+# Não há laboratórios implementados nesta versão inicial.
